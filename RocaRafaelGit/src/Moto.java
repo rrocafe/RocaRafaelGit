@@ -9,3 +9,4 @@ public class Moto extends Vehiculo{
 	llevoRadio=false;
 	}
 }
+
